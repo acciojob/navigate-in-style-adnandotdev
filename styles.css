@@ -2,7 +2,7 @@
 .navbar{
 background-color: #D3D3D3;
 padding: 10px;
-display: inline;
+display: block;
 }
 li {
 	margin-right:1rem;
